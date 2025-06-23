@@ -1,5 +1,5 @@
 CLI Task Manager Application
-https://github.com/pantacrazy/Scrappy
+https://roadmap.sh/projects/task-tracker
 A simple command-line task manager built with Python 3.13.
 Features
 
